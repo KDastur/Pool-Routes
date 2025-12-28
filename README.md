@@ -1,6 +1,6 @@
 # Pool Routes
 # A Python program to manage delivery routes, allowing users to add, delete, or view routes while automatically calculating summary statistics for expenses, income, and net profit. 
-'''python
+```python
 t_cost_goods = 0
 t_payroll = 0
 other = 0
@@ -91,4 +91,4 @@ print("Total expenses: ", t_expenses)
 print("Total income: ", t_income)
 print("Net profit: ", net_profit)
 input()
-'''
+```
