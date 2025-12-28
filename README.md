@@ -1,2 +1,2 @@
-# Contact-List
-A simple Python program to manage and store contacts. Users can add new contacts with first name, last name, phone number, and email. The program stores data in a file and displays contacts sorted alphabetically.
+# Pool Routes
+A Python program to manage delivery routes, allowing users to add, delete, or view routes while automatically calculating summary statistics for expenses, income, and net profit. 
